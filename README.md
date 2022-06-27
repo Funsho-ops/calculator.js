@@ -1,4 +1,4 @@
 # calculator.js
 Basic arithmetic calculator without frontend
 
-http://127.0.0.1:5500/index.html
+https://github.com/Funsho-ops/calculator.js
